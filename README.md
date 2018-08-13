@@ -1,5 +1,3 @@
 # FoodieIndex-Alpha
 
-Hi I want to change this and test out github.
-
-More lines more lines
+Hi I want to use this for MAPP CA2.
