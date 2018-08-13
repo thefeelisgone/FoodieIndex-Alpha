@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE9169</color>
+    <color name="colorPrimaryDark">#FEAD77</color>
+    <color name="colorAccent">#FF7E5F</color>
+    <color name="colorBtn">#FEA171</color>
+    <color name="brown">#85200C</color>
+
+    <!-- older colours
+    <color name="colorPrimary">#FFAFBC</color>
+    <color name="colorPrimaryDark">#FFBCAA</color>
+    <color name="colorAccent">#FF5A92</color>
+    <color name="colorBtn">#FFB5B4</color>
+    <color name="brown">#8C6565</color>
+    -->
+</resources>

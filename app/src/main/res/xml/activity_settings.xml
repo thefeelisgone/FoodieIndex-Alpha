@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="switch_preference_1"
+        android:summary="Show a list of recommended restaurants near your location"
+        android:title="Notification" />
+    <EditTextPreference
+        android:key="PREF_NEWPW"
+        android:id="@+id/updatePW"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:summary="Change your account password"
+        android:title="Password" />
+</PreferenceScreen>

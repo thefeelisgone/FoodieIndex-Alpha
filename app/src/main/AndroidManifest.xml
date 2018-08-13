@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.naomi.foodiesindex" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".SplashScreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" android:label="@string/app_name" />
+        <activity
+            android:name=".Registration"
+            android:label="@string/registration_title"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Home"
+            android:label="@string/home_title" />
+        <activity
+            android:name=".Settings"
+            android:label="@string/settings_title"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".About"
+            android:label="@string/about_title" />
+        <activity
+            android:name=".Restaurant"
+            android:label="@string/restaurant_title" />
+        <activity
+            android:name=".Food"
+            android:label="@string/food_title" />
+        <activity
+            android:name=".SearchResult"
+            android:label="@string/search_title" />
+        <activity
+            android:name=".AddReview"
+            android:label="@string/addreview_title" />
+    </application>
+
+</manifest>

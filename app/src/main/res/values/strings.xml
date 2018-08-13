@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Foodie's Index</string>
+    <string name="strLoginTab">Login</string>
+    <string name="strSignupTab">Sign Up</string>
+
+
+
+
+    <string name="login_email">Email</string>
+    <string name="login_pwd">Password</string>
+
+    <string name="registration_name">Username</string>
+    <string name="registration_email">Email</string>
+    <string name="registration_userid">Password</string>
+    <string name="registration_pwd">Confirm Password</string>
+
+    <string name="item1">Settings</string>
+    <string name="item2">About</string>
+    <string name="item3">Sign Out</string>
+
+    <string name="registration_title">"Foodie's Index"</string>
+    <string name="settings_title">Settings</string>
+    <string name="home_title">Home</string>
+    <string name="restaurant_title">"Restaurant's detail"</string>
+    <string name="food_title">"Food's detail"</string>
+    <string name="addreview_title">Add Review</string>
+    <string name="search_title">Search Result</string>
+    <string name="about_title">About</string>
+
+    <string name="hours">Weekdays and weekends - 10am to 10pm\nPublic holidays - 11am to 9pm</string>
+    <string name="contact"><u>www.afteryoudessertcafe.com</u>\n+65 6338 2448</string>
+    <string name="pancake">Chocolate\nStrawberry\nPancakes</string>
+    <string name="price"><b>S$6.50</b></string>
+
+    <!--String values for the sign out alert dialog-->
+    <string name="titleSignout">Sign Out?</string>
+    <string name="messageSignout">Are you sure you want to sign out?</string>
+    <string name="signout">Sign out</string>
+    <string name="titlePost">Posted Review</string>
+    <string name="messagePost">Your review has been posted successfully!</string>
+    <string name="cancel">Cancel</string>
+
+    <!--String values for the complete registration alert dialog-->
+    <string name="titleRegist">Congratulations!</string>
+    <string name="messageRegist">You have registered your account successfully.</string>
+    <string name="ok">OK</string>
+</resources>
